@@ -1,2 +1,2 @@
 # three-js-Icosahedron-
-A simple Icosahedron using three js
+A simple 3D scene with an Icosahedron using three js
